@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "styled-components.vscode-styled-components",
+    "cpylua.language-postcss",
+    "streetsidesoftware.code-spell-checker",
+    "aaron-bond.better-comments",
+    "esbenp.prettier-vscode",
+    "ms-azuretools.vscode-docker",
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "gruntfuggly.todo-tree",
+    "mikestead.dotenv",
+    "mkaufman.htmlhint",
+    "kumar-harsh.graphql-for-vscode"
+  ]
+}
